@@ -1,0 +1,163 @@
+body{
+    background-color: rgb(240, 189, 95);
+  }
+  
+  .reservation1{
+     background-color: rgb(70, 40, 0);
+  }
+  
+  .order3{
+    color:  rgb(70, 40, 0);
+  }
+  
+  .reservation2{
+       background-image: url(../img/bg.jpg);
+       background-size: cover;
+       border-radius: 8%;
+       height: 800px;
+  }
+  
+  .container.fullwidth {
+      width: 100%;
+      display: flex;
+    }
+    
+  .logoon{
+    width: 170px;
+    height: 49px;
+    margin: 0px 20px 0px 670px;
+  }
+    .container.no-padding {
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+  
+  .user-name{
+    padding: 13px;
+      border-radius: 10px;
+      border: 0;
+  }
+  
+  .thankyou{
+    height: 550px;
+    width: 460px;
+    margin: 0;
+  }
+  
+  .address{
+    padding: 13px;
+      border-radius: 10px;
+      border: 0;
+  }
+  
+  .order-menu{
+      color: rgb(100, 71, 17);
+      text-align: center;
+      font-size: 50px;
+      font-weight: 700;
+      font-family: auto;
+      
+    }
+    
+  .mb-11{
+      margin: 0px 20px 10px;
+      text-align: center;
+      font-size: 20px;
+  }
+    
+  table, th, td {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.318);
+    border-right: 1px solid rgba(128, 128, 128, 0.318);
+  }
+  
+  th{
+    background-color: rgb(210 165 109);
+      color: white;
+      padding: 10px;
+      font-weight: 400;
+      border: 0.1px solid  rgb(210 165 109);
+  }
+  
+  td{
+    padding: 10px;
+  }
+  
+  
+  .checkout{
+    padding: 0px 35px 15px;
+  
+  }
+    
+  .coffee1{
+      margin: 0px;
+      padding: 20px 50px;
+  }
+  
+  .coffee2{
+  padding: 30px;
+  }
+   #btn-chose{
+      margin: 0px 7px 50px 0px;
+      padding: 20px 50px;
+      border-radius: 10px;
+  }
+  
+  #btn-chose1{
+    margin: 0px 7px 50px 0px;
+    padding: 20px 50px;
+    border-radius: 10px;
+  }
+  .chose-size{
+    margin-top: 70px;
+  }
+  .mr-2{
+    width: 79px;
+    height: 50px;
+    margin: 0;
+  }
+    
+  .add__value {
+    border: 1px solid #e7e7e7;
+    background-color: #fff;
+    color: inherit;
+    font-family: inherit;
+    font-size: 14px;
+    padding: 13px 15px;
+    margin-right: 10px;
+    border-radius: 10px;
+    transition: border 0.3s;
+    margin: 0px 3px 50px;
+  }
+  
+  .add__value { 
+    width: 120px;
+   
+  }
+  
+  .final-btn{
+      transition-duration: 0.4s;
+      padding: 15px;
+      background-color: rgb(235, 193, 89);
+      border-radius: 20%;
+      float: right;
+      margin: 100px 0px 0px 300px;
+      border: 0;
+    }
+  
+    
+  .final-btn:hover {
+      background-color: #d8871c; 
+      color: white;
+    }
+  
+  .width{
+    font-size: 70px;
+    color: rgb(70, 40, 0);
+  }
+  
+  .order-detail{
+    flex-direction: row;
+    display: flex;
+   
+  
+  }
